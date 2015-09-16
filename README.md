@@ -1,2 +1,4 @@
 # file_reformat
-reformat excel files
+Date: Sep.1.2015 Author: Chengzhi Zong
+
+Reformat excel files, automatically reorganize different excel files and combine them into a single one.
